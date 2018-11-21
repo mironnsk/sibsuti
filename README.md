@@ -1,6 +1,8 @@
 Информатика
 ===========
 
+![Автомат](https://github.com/mironnsk/sibsuti/blob/master/risovach.ru.jpg)
+
 ### Лекции
 1.
 2.
