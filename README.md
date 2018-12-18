@@ -19,11 +19,15 @@
 7. XML/XSLT.
 
 ### РГЗ
-[doc](https://github.com/mironnsk/sibsuti/tree/master/rgz/РГЗ.doc) [pdf](https://github.com/mironnsk/sibsuti/tree/master/rgz/РГЗ.doc)
+[doc](https://github.com/mironnsk/sibsuti/tree/master/rgz/РГЗ.doc) 
+[pdf](https://github.com/mironnsk/sibsuti/tree/master/rgz/РГЗ.doc)
+[Пример результата РГЗ](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.xlsx)
+[Пример файла для РГЗ](https://github.com/mironnsk/sibsuti/tree/master/rgz/пример%20файла%20для%20ргз.txt)
 
 
 ### Вопросы к экзамену
 [doc](https://github.com/mironnsk/sibsuti/tree/master/exam/вопросы%20к%20экзамену.doc) [pdf](https://github.com/mironnsk/sibsuti/tree/master/exam/вопросы%20к%20экзамену.pdf)
+
 1. Определение алгоритма. Представление алгоритма: псевдокод, блок-схема. 
 2. Базовые алгоритмические конструкции. 
 3. Биты и манипулирование ими. Триггеры и хранение бит. 
