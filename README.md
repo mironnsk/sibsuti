@@ -1,8 +1,6 @@
 Информатика
 ===========
 
-![Автомат](https://github.com/mironnsk/sibsuti/blob/master/risovach.ru.jpg)
-
 ### Лекции
 1.
 2.
@@ -15,17 +13,10 @@
 3. [Алгоритмы. Рекурсия.](https://github.com/mironnsk/sibsuti/tree/master/lab3)
 4. [Алгебра логики. Логические элементы и вентили.](https://github.com/mironnsk/sibsuti/tree/master/lab4)
 5. [Dos shell.](https://github.com/mironnsk/sibsuti/tree/master/lab5)
-6. Windows Script Host.
-7. XML/XSLT.
+6. XML/XSLT
+7. Unix shell
 
 ### РГЗ
-[doc](https://github.com/mironnsk/sibsuti/tree/master/rgz/РГЗ.doc)
-
-[pdf](https://github.com/mironnsk/sibsuti/tree/master/rgz/РГЗ.pdf)
-
-[Пример результата РГЗ](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.xlsx)
-
-[Пример файла для РГЗ](https://github.com/mironnsk/sibsuti/tree/master/rgz/пример%20файла%20для%20ргз.txt)
 
 
 ### Вопросы к экзамену
