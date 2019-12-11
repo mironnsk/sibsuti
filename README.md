@@ -17,7 +17,15 @@
 7. Unix shell
 
 ### РГЗ
+![РГЗ](https://github.com/mironnsk/sibsuti/blob/master/done.jpg)
+[doc](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.docx)
+[pdf](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.pdf)
 
+[Пример результата РГЗ html](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.html)
+[Пример результата РГЗ png](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.png)
+[Пример xsl файла](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.xsl)
+
+[Файла для РГЗ](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.xml)
 
 ### Вопросы к экзамену
 [doc](https://github.com/mironnsk/sibsuti/tree/master/exam/вопросы%20к%20экзамену.doc)
