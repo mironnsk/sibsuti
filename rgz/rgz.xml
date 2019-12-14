@@ -214,7 +214,6 @@
 				<uf_name>Монголия</uf_name>
 				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/mongolia.png</uf_icon>
 			</country>
-			</country>
 			<country>
 				<id>27</id>
 				<uf_name>Узбекистан</uf_name>
@@ -264,6 +263,7 @@
 				<id>26</id>
 				<uf_name>Республика Таджикистан</uf_name>
 				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/tajikistan.png</uf_icon>
+			</country>
 		</countries>
 	</page>
 </hiblock>
