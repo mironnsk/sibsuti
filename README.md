@@ -17,6 +17,13 @@
 7. Unix shell
 
 ### РГЗ
+Вопросы на почту miron.nsk@ro.ru
+
+Посмотреть результат преобразования xml можно в IE(не EDGE).
+
+Для браузеров на основе Chromium(Chrome,Opera,Firefox) нужно запускать с параметром "--allow-file-access-from-files".
+Или можно воспользоватся преобразователем https://www.freeformatter.com/xsl-transformer.html и смотреть результат как html.
+
 ![РГЗ](https://github.com/mironnsk/sibsuti/blob/master/done.png)
 
 [doc](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.docx)
