@@ -2,6 +2,7 @@
 ===========
 
 ### Лекции
+Discord https://discord.gg/hrtNQPc84a
 1.
 2.
 3.
