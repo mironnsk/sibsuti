@@ -2,7 +2,7 @@
 ===========
 
 ### Лекции
-Discord https://discord.gg/hrtNQPc84a
+Discord https://discord.gg/a2HBRUmvn9
 
 1. Информация 
 2.
