@@ -5,7 +5,6 @@
 Discord https://discord.gg/a2HBRUmvn9
 
 ### РГЗ
-![РГЗ](https://github.com/mironnsk/sibsuti/blob/master/done.jpg)
 [doc](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.docx)
 [pdf](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.pdf)
 
