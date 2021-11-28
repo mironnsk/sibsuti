@@ -1,269 +1,426 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type='text/xsl' href='rgz.xsl'?>
 <hiblock>
-	<page num="0">
-		<name>Задание по вариантам</name>		
-		<variants>
-			<sequence variant="1">
-				<name>Числа Фибоначчи</name>
-				<items>
-					<item><num color="#336600">1</num><val>0</val></item>
-					<item><num color="#330000">2</num><val>1</val></item>
-					<item><num color="#330066">3</num><val>1</val></item>
-					<item><num color="#660033">4</num><val>2</val></item>
-					<item><num color="#006633">5</num><val>3</val></item>
-					<item><num color="#000033">6</num><val>5</val></item>
-					<item><num color="#663300">7</num><val>8</val></item>
-					<item><num color="#003300">8</num><val>13</val></item>
-					<item><num color="#003366">9</num><val>21</val></item>
-				</items>
-			</sequence>
-			<sequence variant="2">
-				<name>Числа Трибоначчи</name>
-				<items>
-					<item><num color="#336600">1</num><val>0</val></item>
-					<item><num color="#330000">2</num><val>0</val></item>
-					<item><num color="#330066">3</num><val>1</val></item>
-					<item><num color="#660033">4</num><val>1</val></item>
-					<item><num color="#006633">5</num><val>2</val></item>
-					<item><num color="#000033">6</num><val>4</val></item>
-					<item><num color="#663300">7</num><val>7</val></item>
-					<item><num color="#003300">8</num><val>13</val></item>
-					<item><num color="#003366">9</num><val>24</val></item>
-				</items>
-			</sequence>
-			<sequence variant="3">
-				<name>Числа Люка</name>
-				<items>
-					<item><num color="#336600">1</num><val>2</val></item>
-					<item><num color="#330000">2</num><val>1</val></item>
-					<item><num color="#330066">3</num><val>3</val></item>
-					<item><num color="#660033">4</num><val>4</val></item>
-					<item><num color="#006633">5</num><val>7</val></item>
-					<item><num color="#000033">6</num><val>11</val></item>
-					<item><num color="#663300">7</num><val>18</val></item>
-					<item><num color="#003300">8</num><val>29</val></item>
-					<item><num color="#003366">9</num><val>47</val></item>
-				</items>
-			</sequence>
-			<sequence variant="4">
-				<name>Факториал числа</name>
-				<items>
-					<item><num color="#336600">1</num><val>1</val></item>
-					<item><num color="#330000">2</num><val>2</val></item>
-					<item><num color="#330066">3</num><val>6</val></item>
-					<item><num color="#660033">4</num><val>24</val></item>
-					<item><num color="#006633">5</num><val>120</val></item>
-					<item><num color="#000033">6</num><val>720</val></item>
-					<item><num color="#663300">7</num><val>5040</val></item>
-					<item><num color="#003300">8</num><val>40320</val></item>
-					<item><num color="#003366">9</num><val>362880</val></item>
-				</items>
-			</sequence>
-		</variants>
-	</page>
-	<page num="1">
-		<name>Картинка</name>		
-		<table  type="img" row-size="7">
-				<item><order>49</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/49.jpg</url></item>
-				<item><order>47</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/47.jpg</url></item>
-				<item><order>41</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/41.jpg</url></item>
-				<item><order>40</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/40.jpg</url></item>
-				<item><order>37</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/37.jpg</url></item>
-				<item><order>38</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/38.jpg</url></item>
-				<item><order>39</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/39.jpg</url></item>
-				<item><order>46</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/46.jpg</url></item>
-				<item><order>43</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/43.jpg</url></item>
-				<item><order>45</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/45.jpg</url></item>
-				<item><order>44</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/44.jpg</url></item>
-				<item><order>42</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/42.jpg</url></item>
-				<item><order>48</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/48.jpg</url></item>
-				<item><order>36</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/36.jpg</url></item>
-				<item><order>29</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/29.jpg</url></item>
-				<item><order>14</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/14.jpg</url></item>
-				<item><order>30</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/30.jpg</url></item>
-				<item><order>8</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/8.jpg</url></item>
-				<item><order>34</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/34.jpg</url></item>
-				<item><order>10</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/10.jpg</url></item>
-				<item><order>31</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/31.jpg</url></item>
-				<item><order>23</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/23.jpg</url></item>
-				<item><order>19</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/19.jpg</url></item>
-				<item><order>24</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/24.jpg</url></item>
-				<item><order>33</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/33.jpg</url></item>
-				<item><order>28</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/28.jpg</url></item>
-				<item><order>13</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/13.jpg</url></item>
-				<item><order>26</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/26.jpg</url></item>
-				<item><order>20</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/20.jpg</url></item>
-				<item><order>15</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/15.jpg</url></item>
-				<item><order>21</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/21.jpg</url></item>
-				<item><order>18</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/18.jpg</url></item>
-				<item><order>17</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/17.jpg</url></item>
-				<item><order>22</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/22.jpg</url></item>
-				<item><order>16</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/16.jpg</url></item>
-				<item><order>25</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/25.jpg</url></item>
-				<item><order>1</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/1.jpg</url></item>
-				<item><order>12</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/12.jpg</url></item>
-				<item><order>11</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/11.jpg</url></item>
-				<item><order>9</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/9.jpg</url></item>
-				<item><order>7</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/7.jpg</url></item>
-				<item><order>27</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/27.jpg</url></item>
-				<item><order>5</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/5.jpg</url></item>
-				<item><order>3</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/3.jpg</url></item>
-				<item><order>2</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/2.jpg</url></item>
-				<item><order>35</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/35.jpg</url></item>
-				<item><order>6</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/6.jpg</url></item>
-				<item><order>4</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/4.jpg</url></item>
-				<item><order>32</order><url>https://github.com/mironnsk/sibsuti/tree/master/rgz/mem/32.jpg</url></item>
-		</table>
-	</page>
-	<page num="2">
-		<name>Страны и флаги</name>
-		<countries>
-			<country>
-				<id>1</id>
-				<uf_name>Великобритания</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/velikobritaniya.png</uf_icon>
-			</country>
-			<country>
-				<id>2</id>
-				<uf_name>Германия</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/germaniya.png</uf_icon>
-			</country>
-			<country>
-				<id>3</id>
-				<uf_name>Гонконг</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/Gonkong_01.png</uf_icon>
-			</country>
-			<country>
-				<id>4</id>
-				<uf_name>Китай</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/China_01.png</uf_icon>
-			</country>
-			<country>
-				<id>5</id>
-				<uf_name>Республика Казахстан</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/Kazahstan_01.png</uf_icon>
-			</country>
-			<country>
-				<id>6</id>
-				<uf_name>Республика Корея</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/Korea_01.png</uf_icon>
-			</country>
-			<country>
-				<id>7</id>
-				<uf_name>США</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/USA_01.png</uf_icon>
-			</country>
-			<country>
-				<id>8</id>
-				<uf_name>Швейцария</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/Switzerland_01.png</uf_icon>
-			</country>
-			<country>
-				<id>10</id>
-				<uf_name>Канада</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/flag-kanady.png</uf_icon>
-			</country>
-			<country>
-				<id>11</id>
-				<uf_name>Азербайджанская Республика</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/azerbaijan.png</uf_icon>
-			</country>
-			<country>
-				<id>9</id>
-				<uf_name>Япония</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/Japan_01.png</uf_icon>
-			</country>
-			<country>
-				<id>12</id>
-				<uf_name>Грузия</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/georgia.png</uf_icon>
-			</country>
-			<country>
-				<id>13</id>
-				<uf_name>Индия</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/india.png</uf_icon>
-			</country>
-			<country>
-				<id>14</id>
-				<uf_name>Ирландия</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/ireland.png</uf_icon>
-			</country>
-			<country>
-				<id>15</id>
-				<uf_name>Италия</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/italy.png</uf_icon>
-			</country>
-			<country>
-				<id>16</id>
-				<uf_name>Кыргызская Республика</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/kyrgyzstan.png</uf_icon>
-			</country>
-			<country>
-				<id>17</id>
-				<uf_name>Латвия</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/latvia.png</uf_icon>
-			</country>
-			<country>
-				<id>18</id>
-				<uf_name>Литва</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/lithuania.png</uf_icon>
-			</country>
-			<country>
-				<id>19</id>
-				<uf_name>Монголия</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/mongolia.png</uf_icon>
-			</country>
-			<country>
-				<id>27</id>
-				<uf_name>Узбекистан</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/uzbekistan.png</uf_icon>
-			</country>
-			<country>
-				<id>28</id>
-				<uf_name>Украина</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/Ukraine.png</uf_icon>
-			</country>
-			<country>
-				<id>29</id>
-				<uf_name>Чехия</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/czech.png</uf_icon>
-			</country>
-			<country>
-				<id>20</id>
-				<uf_name>Нидерланды</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/netherlands.png</uf_icon>
-			</country>
-			<country>
-				<id>21</id>
-				<uf_name>ОАЭ</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/United-Arab-emirates.png</uf_icon>
-			</country>
-			<country>
-				<id>22</id>
-				<uf_name>Польша</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/Poland.png</uf_icon>
-			</country>
-			<country>
-				<id>23</id>
-				<uf_name>Республика Армения</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/armenia.png</uf_icon>
-			</country>
-			<country>
-				<id>24</id>
-				<uf_name>Республика Беларусь</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/belarus.png</uf_icon>
-			</country>
-			<country>
-				<id>25</id>
-				<uf_name>Республика Молдова</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/moldova.png</uf_icon>
-			</country>
-			<country>
-				<id>26</id>
-				<uf_name>Республика Таджикистан</uf_name>
-				<uf_icon>https://github.com/mironnsk/sibsuti/tree/master/rgz/countries_files/tajikistan.png</uf_icon>
-			</country>
-		</countries>
-	</page>
+    <page num="0">
+        <name>Задание по вариантам</name>
+        <variants>
+            <sequence variant="1">
+                <name>Числа Фибоначчи</name>
+                <items>
+                    <item>
+                        <num color="#336600">1</num>
+                        <val>0</val>
+                    </item>
+                    <item>
+                        <num color="#330000">2</num>
+                        <val>1</val>
+                    </item>
+                    <item>
+                        <num color="#330066">3</num>
+                        <val>1</val>
+                    </item>
+                    <item>
+                        <num color="#660033">4</num>
+                        <val>2</val>
+                    </item>
+                    <item>
+                        <num color="#006633">5</num>
+                        <val>3</val>
+                    </item>
+                    <item>
+                        <num color="#000033">6</num>
+                        <val>5</val>
+                    </item>
+                    <item>
+                        <num color="#663300">7</num>
+                        <val>8</val>
+                    </item>
+                    <item>
+                        <num color="#003300">8</num>
+                        <val>13</val>
+                    </item>
+                    <item>
+                        <num color="#003366">9</num>
+                        <val>21</val>
+                    </item>
+                </items>
+            </sequence>
+            <sequence variant="2">
+                <name>Числа Трибоначчи</name>
+                <items>
+                    <item>
+                        <num color="#336600">1</num>
+                        <val>0</val>
+                    </item>
+                    <item>
+                        <num color="#330000">2</num>
+                        <val>0</val>
+                    </item>
+                    <item>
+                        <num color="#330066">3</num>
+                        <val>1</val>
+                    </item>
+                    <item>
+                        <num color="#660033">4</num>
+                        <val>1</val>
+                    </item>
+                    <item>
+                        <num color="#006633">5</num>
+                        <val>2</val>
+                    </item>
+                    <item>
+                        <num color="#000033">6</num>
+                        <val>4</val>
+                    </item>
+                    <item>
+                        <num color="#663300">7</num>
+                        <val>7</val>
+                    </item>
+                    <item>
+                        <num color="#003300">8</num>
+                        <val>13</val>
+                    </item>
+                    <item>
+                        <num color="#003366">9</num>
+                        <val>24</val>
+                    </item>
+                </items>
+            </sequence>
+            <sequence variant="3">
+                <name>Числа Люка</name>
+                <items>
+                    <item>
+                        <num color="#336600">1</num>
+                        <val>2</val>
+                    </item>
+                    <item>
+                        <num color="#330000">2</num>
+                        <val>1</val>
+                    </item>
+                    <item>
+                        <num color="#330066">3</num>
+                        <val>3</val>
+                    </item>
+                    <item>
+                        <num color="#660033">4</num>
+                        <val>4</val>
+                    </item>
+                    <item>
+                        <num color="#006633">5</num>
+                        <val>7</val>
+                    </item>
+                    <item>
+                        <num color="#000033">6</num>
+                        <val>11</val>
+                    </item>
+                    <item>
+                        <num color="#663300">7</num>
+                        <val>18</val>
+                    </item>
+                    <item>
+                        <num color="#003300">8</num>
+                        <val>29</val>
+                    </item>
+                    <item>
+                        <num color="#003366">9</num>
+                        <val>47</val>
+                    </item>
+                </items>
+            </sequence>
+            <sequence variant="4">
+                <name>Факториал числа</name>
+                <items>
+                    <item>
+                        <num color="#336600">1</num>
+                        <val>1</val>
+                    </item>
+                    <item>
+                        <num color="#330000">2</num>
+                        <val>2</val>
+                    </item>
+                    <item>
+                        <num color="#330066">3</num>
+                        <val>6</val>
+                    </item>
+                    <item>
+                        <num color="#660033">4</num>
+                        <val>24</val>
+                    </item>
+                    <item>
+                        <num color="#006633">5</num>
+                        <val>120</val>
+                    </item>
+                    <item>
+                        <num color="#000033">6</num>
+                        <val>720</val>
+                    </item>
+                    <item>
+                        <num color="#663300">7</num>
+                        <val>5040</val>
+                    </item>
+                    <item>
+                        <num color="#003300">8</num>
+                        <val>40320</val>
+                    </item>
+                    <item>
+                        <num color="#003366">9</num>
+                        <val>362880</val>
+                    </item>
+                </items>
+            </sequence>
+        </variants>
+    </page>
+    <page num="1">
+        <name>Картинка</name>
+        <table type="img" row-size="7">
+            <item><order>49</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/49.jpg</url>
+            </item>
+            <item><order>47</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/47.jpg</url>
+            </item>
+            <item><order>41</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/41.jpg</url>
+            </item>
+            <item><order>40</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/40.jpg</url>
+            </item>
+            <item><order>37</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/37.jpg</url>
+            </item>
+            <item><order>38</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/38.jpg</url>
+            </item>
+            <item><order>39</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/39.jpg</url>
+            </item>
+            <item><order>46</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/46.jpg</url>
+            </item>
+            <item><order>43</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/43.jpg</url>
+            </item>
+            <item><order>45</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/45.jpg</url>
+            </item>
+            <item><order>44</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/44.jpg</url>
+            </item>
+            <item><order>42</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/42.jpg</url>
+            </item>
+            <item><order>48</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/48.jpg</url>
+            </item>
+            <item><order>36</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/36.jpg</url>
+            </item>
+            <item><order>29</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/29.jpg</url>
+            </item>
+            <item><order>14</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/14.jpg</url>
+            </item>
+            <item><order>30</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/30.jpg</url>
+            </item>
+            <item><order>8</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/8.jpg</url>
+            </item>
+            <item><order>34</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/34.jpg</url>
+            </item>
+            <item><order>10</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/10.jpg</url>
+            </item>
+            <item><order>31</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/31.jpg</url>
+            </item>
+            <item><order>23</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/23.jpg</url>
+            </item>
+            <item><order>19</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/19.jpg</url>
+            </item>
+            <item><order>24</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/24.jpg</url>
+            </item>
+            <item><order>33</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/33.jpg</url>
+            </item>
+            <item><order>28</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/28.jpg</url>
+            </item>
+            <item><order>13</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/13.jpg</url>
+            </item>
+            <item><order>26</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/26.jpg</url>
+            </item>
+            <item><order>20</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/20.jpg</url>
+            </item>
+            <item><order>15</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/15.jpg</url>
+            </item>
+            <item><order>21</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/21.jpg</url>
+            </item>
+            <item><order>18</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/18.jpg</url>
+            </item>
+            <item><order>17</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/17.jpg</url>
+            </item>
+            <item><order>22</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/22.jpg</url>
+            </item>
+            <item><order>16</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/16.jpg</url>
+            </item>
+            <item><order>25</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/25.jpg</url>
+            </item>
+            <item><order>1</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/1.jpg</url>
+            </item>
+            <item><order>12</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/12.jpg</url>
+            </item>
+            <item><order>11</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/11.jpg</url>
+            </item>
+            <item><order>9</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/9.jpg</url>
+            </item>
+            <item><order>7</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/7.jpg</url>
+            </item>
+            <item><order>27</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/27.jpg</url>
+            </item>
+            <item><order>5</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/5.jpg</url>
+            </item>
+            <item><order>3</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/3.jpg</url>
+            </item>
+            <item><order>2</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/2.jpg</url>
+            </item>
+            <item><order>35</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/35.jpg</url>
+            </item>
+            <item><order>6</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/6.jpg</url>
+            </item>
+            <item><order>4</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/4.jpg</url>
+            </item>
+            <item><order>32</order><url>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/mem/32.jpg</url>
+            </item>
+        </table>
+    </page>
+    <page num="2">
+        <name>Страны и флаги</name>
+        <countries>
+            <country><id>1</id><uf_name>Великобритания</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/velikobritaniya.png</uf_icon>
+            </country>
+            <country><id>2</id><uf_name>Германия</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/germaniya.png</uf_icon>
+            </country>
+            <country><id>3</id><uf_name>Гонконг</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/Gonkong_01.png</uf_icon>
+            </country>
+            <country><id>4</id><uf_name>Китай</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/China_01.png</uf_icon>
+            </country>
+            <country><id>5</id><uf_name>Республика Казахстан</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/Kazahstan_01.png</uf_icon>
+            </country>
+            <country><id>6</id><uf_name>Республика Корея</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/Korea_01.png</uf_icon>
+            </country>
+            <country><id>7</id><uf_name>США</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/USA_01.png</uf_icon>
+            </country>
+            <country><id>8</id><uf_name>Швейцария</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/Switzerland_01.png</uf_icon>
+            </country>
+            <country><id>10</id><uf_name>Канада</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/flag-kanady.png</uf_icon>
+            </country>
+            <country><id>11</id><uf_name>Азербайджанская Республика</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/azerbaijan.png</uf_icon>
+            </country>
+            <country><id>9</id><uf_name>Япония</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/Japan_01.png</uf_icon>
+            </country>
+            <country><id>12</id><uf_name>Грузия</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/georgia.png</uf_icon>
+            </country>
+            <country><id>13</id><uf_name>Индия</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/india.png</uf_icon>
+            </country>
+            <country><id>14</id><uf_name>Ирландия</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/ireland.png</uf_icon>
+            </country>
+            <country><id>15</id><uf_name>Италия</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/italy.png</uf_icon>
+            </country>
+            <country><id>16</id><uf_name>Кыргызская Республика</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/kyrgyzstan.png</uf_icon>
+            </country>
+            <country><id>17</id><uf_name>Латвия</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/latvia.png</uf_icon>
+            </country>
+            <country><id>18</id><uf_name>Литва</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/lithuania.png</uf_icon>
+            </country>
+            <country><id>19</id><uf_name>Монголия</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/mongolia.png</uf_icon>
+            </country>
+            <country><id>27</id><uf_name>Узбекистан</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/uzbekistan.png</uf_icon>
+            </country>
+            <country><id>28</id><uf_name>Украина</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/Ukraine.png</uf_icon>
+            </country>
+            <country><id>29</id><uf_name>Чехия</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/czech.png</uf_icon>
+            </country>
+            <country><id>20</id><uf_name>Нидерланды</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/netherlands.png</uf_icon>
+            </country>
+            <country><id>21</id><uf_name>ОАЭ</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/United-Arab-emirates.png</uf_icon>
+            </country>
+            <country><id>22</id><uf_name>Польша</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/Poland.png</uf_icon>
+            </country>
+            <country><id>23</id><uf_name>Республика Армения</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/armenia.png</uf_icon>
+            </country>
+            <country><id>24</id><uf_name>Республика Беларусь</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/belarus.png</uf_icon>
+            </country>
+            <country><id>25</id><uf_name>Республика Молдова</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/moldova.png</uf_icon>
+            </country>
+            <country><id>26</id><uf_name>Республика Таджикистан</uf_name><uf_icon>https://raw.githubusercontent.com/mironnsk/sibsuti/master/rgz/countries_files/tajikistan.png</uf_icon>
+            </country>
+        </countries>
+    </page>
+    <page num="3">
+        <name>Студенты</name>
+        <students>
+            <student><fname>Матвей</fname><sname>Адамович</sname><lname>Казаков</lname><group>3</group><subjects><subject>1</subject></subjects></student>
+            <student><fname>Дмитрий</fname><sname>Ильич</sname><lname>Васильев</lname><group>1</group><subjects><subject>3</subject></subjects></student>
+            <student><fname>Ярослав</fname><sname>Алексеевич</sname><lname>Малышев</lname><group>3</group><subjects><subject>1</subject></subjects></student>
+            <student><fname>София</fname><sname>Денисовна</sname><lname>Моисеева</lname><group>3</group><subjects><subject>2</subject></subjects></student>
+            <student><fname>Тимофей</fname><sname>Артёмович</sname><lname>Соболев</lname><group>2</group><subjects><subject>3</subject></subjects></student>
+            <student><fname>София</fname><sname>Дмитриевна</sname><lname>Кузнецова</lname><group>2</group><subjects><subject>1</subject></subjects></student>
+            <student><fname>Владимир</fname><sname>Матвеевич</sname><lname>Вишневский</lname><group>2</group><subjects><subject>2</subject></subjects></student>
+            <student><fname>Максим</fname><sname>Родионович</sname><lname>Цветков</lname><group>3</group><subjects><subject>2</subject></subjects></student>
+            <student><fname>Алиса</fname><sname>Егоровна</sname><lname>Соловьева</lname><group>1</group><subjects><subject>1</subject></subjects></student>
+            <student><fname>Мария</fname><sname>Максимовна</sname><lname>Новикова</lname><group>1</group><subjects><subject>1</subject></subjects></student>
+            <student><fname>Артём</fname><sname>Русланович</sname><lname>Тимофеев</lname><group>2</group><subjects><subject>2</subject></subjects></student>
+            <student><fname>Милана</fname><sname>Мироновна</sname><lname>Новикова</lname><group>1</group><subjects><subject>1</subject></subjects></student>
+            <student><fname>Анна</fname><sname>Арсеньевна</sname><lname>Богданова</lname><group>2</group><subjects/></student>
+            <student><fname>Александр</fname><sname>Александрович</sname><lname>Беляев</lname><group>3</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Мария</fname><sname>Георгиевна</sname><lname>Соколова</lname><group>1</group><subjects/></student>
+            <student><fname>Роман</fname><sname>Максимович</sname><lname>Александров</lname><group>3</group><subjects><subject>1</subject><subject>2</subject></subjects></student>
+            <student><fname>Алина</fname><sname>Тимофеевна</sname><lname>Леонова</lname><group>1</group><subjects><subject>2</subject></subjects></student>
+            <student><fname>Даниил</fname><sname>Владимирович</sname><lname>Казаков</lname><group>3</group><subjects/></student>
+            <student><fname>Екатерина</fname><sname>Александровна</sname><lname>Давыдова</lname><group>1</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Мария</fname><sname>Дмитриевна</sname><lname>Меркулова</lname><group>3</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Мария</fname><sname>Михайловна</sname><lname>Трофимова</lname><group>1</group><subjects><subject>2</subject></subjects></student>
+            <student><fname>Кирилл</fname><sname>Маркович</sname><lname>Лебедев</lname><group>2</group><subjects><subject>3</subject></subjects></student>
+            <student><fname>Виктор</fname><sname>Никитич</sname><lname>Черепанов</lname><group>2</group><subjects/></student>
+            <student><fname>Мария</fname><sname>Викторовна</sname><lname>Иванова</lname><group>1</group><subjects><subject>2</subject></subjects></student>
+            <student><fname>Юрий</fname><sname>Максимович</sname><lname>Ефремов</lname><group>1</group><subjects><subject>3</subject></subjects></student>
+            <student><fname>Василий</fname><sname>Тихонович</sname><lname>Осипов</lname><group>3</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Михаил</fname><sname>Кириллович</sname><lname>Волков</lname><group>3</group><subjects><subject>1</subject></subjects></student>
+            <student><fname>Александр</fname><sname>Михайлович</sname><lname>Логинов</lname><group>1</group><subjects><subject>1</subject></subjects></student>
+            <student><fname>Анастасия</fname><sname>Мирославовна</sname><lname>Лебедева</lname><group>1</group><subjects><subject>2</subject></subjects></student>
+            <student><fname>Елизавета</fname><sname>Петровна</sname><lname>Сергеева</lname><group>2</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Константин</fname><sname>Александрович</sname><lname>Орлов</lname><group>3</group><subjects/></student>
+            <student><fname>Арина</fname><sname>Вадимовна</sname><lname>Белова</lname><group>2</group><subjects/></student>
+            <student><fname>Максим</fname><sname>Михайлович</sname><lname>Назаров</lname><group>2</group><subjects><subject>3</subject></subjects></student>
+            <student><fname>Василиса</fname><sname>Егоровна</sname><lname>Орлова</lname><group>1</group><subjects><subject>1</subject></subjects></student>
+            <student><fname>Ольга</fname><sname>Максимовна</sname><lname>Попова</lname><group>1</group><subjects><subject>1</subject></subjects></student>
+            <student><fname>Даниил</fname><sname>Фёдорович</sname><lname>Семин</lname><group>3</group><subjects><subject>1</subject></subjects></student>
+            <student><fname>Глеб</fname><sname>Ильич</sname><lname>Звягинцев</lname><group>1</group><subjects><subject>2</subject></subjects></student>
+            <student><fname>Лилия</fname><sname>Степановна</sname><lname>Быкова</lname><group>1</group><subjects><subject>3</subject></subjects></student>
+            <student><fname>Николай</fname><sname>Львович</sname><lname>Романов</lname><group>1</group><subjects/></student>
+            <student><fname>Александра</fname><sname>Дмитриевна</sname><lname>Свиридова</lname><group>2</group><subjects><subject>2</subject></subjects></student>
+            <student><fname>Ольга</fname><sname>Ильинична</sname><lname>Калинина</lname><group>2</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Арсений</fname><sname>Георгиевич</sname><lname>Захаров</lname><group>1</group><subjects><subject>3</subject></subjects></student>
+            <student><fname>Виктория</fname><sname>Петровна</sname><lname>Михайлова</lname><group>1</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Михаил</fname><sname>Ярославович</sname><lname>Наумов</lname><group>3</group><subjects><subject>3</subject></subjects></student>
+            <student><fname>Варвара</fname><sname>Дмитриевна</sname><lname>Зубова</lname><group>2</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Всеволод</fname><sname>Михайлович</sname><lname>Попов</lname><group>3</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Роман</fname><sname>Макарович</sname><lname>Горбачев</lname><group>1</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Виктория</fname><sname>Тимофеевна</sname><lname>Титова</lname><group>2</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Владимир</fname><sname>Маркович</sname><lname>Буров</lname><group>1</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Мария</fname><sname>Алексеевна</sname><lname>Кондратьева</lname><group>3</group><subjects/></student>
+            <student><fname>Алиса</fname><sname>Михайловна</sname><lname>Романова</lname><group>1</group><subjects/></student>
+            <student><fname>Андрей</fname><sname>Германович</sname><lname>Белов</lname><group>2</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>София</fname><sname>Юрьевна</sname><lname>Исаева</lname><group>3</group><subjects><subject>2</subject></subjects></student>
+            <student><fname>Александра</fname><sname>Никитична</sname><lname>Никифорова</lname><group>3</group><subjects/></student>
+            <student><fname>Александр</fname><sname>Львович</sname><lname>Попов</lname><group>3</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Александра</fname><sname>Максимовна</sname><lname>Алексеева</lname><group>1</group><subjects><subject>2</subject></subjects></student>
+            <student><fname>Варвара</fname><sname>Арсеньевна</sname><lname>Еремина</lname><group>3</group><subjects><subject>2</subject></subjects></student>
+            <student><fname>Кирилл</fname><sname>Георгиевич</sname><lname>Чистяков</lname><group>1</group><subjects><subject>1</subject></subjects></student>
+            <student><fname>Даниил</fname><sname>Антонович</sname><lname>Михайлов</lname><group>1</group><subjects><subject>3</subject></subjects></student>
+            <student><fname>Милана</fname><sname>Матвеевна</sname><lname>Москвина</lname><group>1</group><subjects><subject>4</subject></subjects></student>
+        </students>
+        <subjects>
+            <subject id="1">
+                <name>Информатика</name>
+            </subject>
+            <subject id="2">
+                <name>История</name>
+            </subject>
+            <subject id="3">
+                <name>Физика</name>
+            </subject>
+        </subjects>
+        <groups>
+            <group id="1">
+                <name>П-100</name>
+            </group>
+            <group id="2">
+                <name>В-101</name>
+            </group>
+            <group id="3">
+                <name>И-102</name>
+            </group>
+        </groups>
+    </page>
 </hiblock>
