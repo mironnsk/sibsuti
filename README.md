@@ -6,22 +6,29 @@ Discord https://discord.gg/a2HBRUmvn9
 
 ### РГЗ
 [doc](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.docx)
+
 [pdf](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.pdf)
 
 [Пример результата РГЗ html](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.html)
+
 [Пример результата РГЗ jpg](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.jpg)
+
 [Пример xsl файла](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.xsl)
 
 [Файла для РГЗ](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.xml)
 
 Посмотреть результат преобразования xml можно в IE(не EDGE).
 Для браузеров на основе Chromium(Chrome,Opera,Firefox) нужно запускать с параметром "--allow-file-access-from-files".
+
 Или можно воспользоватся преобразователем https://www.freeformatter.com/xsl-transformer.html и смотреть результат как html.
 
 ### Сроки сдачи лабораторных и РГЗ
 Контрольные недели 7 и 14 неделя семестра.
+
 18 октября 2021 - 1,2,3,4 лабораторные работы
+
 13 декабря 2021 - все лабораторные работы
+
 27 декабря 2021 - РГЗ на автомат
 
 ### Лабораторные работы
