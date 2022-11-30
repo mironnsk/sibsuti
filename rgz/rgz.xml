@@ -340,7 +340,7 @@
         <name>Студенты</name>
         <students>
             <student><fname>Матвей</fname><sname>Адамович</sname><lname>Казаков</lname><group>3</group><subjects><subject>1</subject></subjects></student>
-            <student><fname>Дмитрий</fname><sname>Ильич</sname><lname>Васильев</lname><group>1</group><subjects><subject>3</subject></subjects></student>
+            <student><fname>Дмитрий</fname><sname>Ильич</sname><lname>Васильев</lname><group>4</group><subjects><subject>3</subject></subjects></student>
             <student><fname>Ярослав</fname><sname>Алексеевич</sname><lname>Малышев</lname><group>3</group><subjects><subject>1</subject></subjects></student>
             <student><fname>София</fname><sname>Денисовна</sname><lname>Моисеева</lname><group>3</group><subjects><subject>2</subject></subjects></student>
             <student><fname>Тимофей</fname><sname>Артёмович</sname><lname>Соболев</lname><group>2</group><subjects><subject>3</subject></subjects></student>
@@ -369,7 +369,7 @@
             <student><fname>Александр</fname><sname>Михайлович</sname><lname>Логинов</lname><group>1</group><subjects><subject>1</subject></subjects></student>
             <student><fname>Анастасия</fname><sname>Мирославовна</sname><lname>Лебедева</lname><group>1</group><subjects><subject>2</subject></subjects></student>
             <student><fname>Елизавета</fname><sname>Петровна</sname><lname>Сергеева</lname><group>2</group><subjects><subject>4</subject></subjects></student>
-            <student><fname>Константин</fname><sname>Александрович</sname><lname>Орлов</lname><group>3</group><subjects/></student>
+            <student><fname>Константин</fname><sname>Александрович</sname><lname>Орлов</lname><group>4</group><subjects/></student>
             <student><fname>Арина</fname><sname>Вадимовна</sname><lname>Белова</lname><group>2</group><subjects/></student>
             <student><fname>Максим</fname><sname>Михайлович</sname><lname>Назаров</lname><group>2</group><subjects><subject>3</subject></subjects></student>
             <student><fname>Василиса</fname><sname>Егоровна</sname><lname>Орлова</lname><group>1</group><subjects><subject>1</subject></subjects></student>
@@ -398,7 +398,7 @@
             <student><fname>Варвара</fname><sname>Арсеньевна</sname><lname>Еремина</lname><group>3</group><subjects><subject>2</subject></subjects></student>
             <student><fname>Кирилл</fname><sname>Георгиевич</sname><lname>Чистяков</lname><group>1</group><subjects><subject>1</subject></subjects></student>
             <student><fname>Даниил</fname><sname>Антонович</sname><lname>Михайлов</lname><group>1</group><subjects><subject>3</subject></subjects></student>
-            <student><fname>Милана</fname><sname>Матвеевна</sname><lname>Москвина</lname><group>1</group><subjects><subject>4</subject></subjects></student>
+            <student><fname>Милана</fname><sname>Матвеевна</sname><lname>Москвина</lname><group>4</group><subjects><subject>4</subject></subjects></student>
         </students>
         <subjects>
             <subject id="1">
@@ -420,6 +420,9 @@
             </group>
             <group id="3">
                 <name>И-102</name>
+            </group>
+			<group id="4">
+                <name>А-103</name>
             </group>
         </groups>
     </page>
