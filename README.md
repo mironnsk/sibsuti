@@ -1,9 +1,6 @@
 Информатика
 ===========
 
-### Лекции
-Discord https://discord.gg/a2HBRUmvn9
-
 ### РГЗ
 [doc](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.docx)
 
@@ -18,7 +15,7 @@ Discord https://discord.gg/a2HBRUmvn9
 [Файла для РГЗ](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.xml)
 
 Посмотреть результат преобразования xml можно в IE(не EDGE).
-Для браузеров на основе Chromium(Chrome,Opera,Firefox) нужно запускать с параметром "--allow-file-access-from-files".
+Для браузеров на основе Chromium(Chrome,Opera,Edge) нужно запускать с параметром "--allow-file-access-from-files".
 
 Или можно воспользоватся преобразователем https://www.freeformatter.com/xsl-transformer.html и смотреть результат как html.
 
@@ -27,9 +24,9 @@ Discord https://discord.gg/a2HBRUmvn9
 
 18 октября 2021 - 1,2,3,4 лабораторные работы
 
-13 декабря 2021 - все лабораторные работы
+12 декабря 2021 - все лабораторные работы
 
-27 декабря 2021 - РГЗ на автомат
+28 декабря 2021 - РГЗ на автомат
 
 ### Лабораторные работы
 1. Системы счисления. Компьютерное представление чисел.
@@ -37,7 +34,7 @@ Discord https://discord.gg/a2HBRUmvn9
 3. [Алгоритмы. Рекурсия.](https://github.com/mironnsk/sibsuti/tree/master/lab3)
 4. [Алгебра логики. Логические элементы и вентили.](https://github.com/mironnsk/sibsuti/tree/master/lab4)
 5. [Dos shell.](https://github.com/mironnsk/sibsuti/tree/master/lab5)
-6. XML/XSLT
+6. [XML/XSLT](https://github.com/mironnsk/sibsuti/tree/master/lab6)
 7. Unix shell
 
 ### Вопросы к экзамену
