@@ -15,7 +15,7 @@
 [Файла для РГЗ](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.xml)
 
 Посмотреть результат преобразования xml можно в IE(не EDGE).
-Для браузеров на основе Chromium(Chrome,Opera,Edge) нужно запускать с параметром "--allow-file-access-from-files".
+Для браузеров на основе Chromium(Chrome,Opera,Edge) нужно запускать с параметром "--allow-file-access-from-files" и --user-data-dir=C:\temp, где C:\temp папка где лежат файлы xml и xsl.
 
 Или можно воспользоватся преобразователем https://www.freeformatter.com/xsl-transformer.html и смотреть результат как html.
 
