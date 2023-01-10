@@ -1,5 +1,7 @@
 Информатика
 ===========
+### По всем вопросам пишите в telegram [@miron_nsk](https://t.me/miron_nsk)
+
 
 ### РГЗ
 [doc](https://github.com/mironnsk/sibsuti/tree/master/rgz/rgz.docx)
